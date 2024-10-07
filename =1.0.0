@@ -1,0 +1,7 @@
+
+> aws-crt@1.22.0 install C:\Users\hi\Desktop\next project\messaging\node_modules\aws-crt
+> node ./scripts/install.js
+
+The binding already exists, skip rebuilding. To rebuild the native addon, please run install.js with `--rebuild`
++ aws-crt@1.22.0
+added 60 packages in 66.308s
